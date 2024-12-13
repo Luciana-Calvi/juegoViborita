@@ -1,1 +1,1 @@
-# juegpViborita
+# juegoViborita
