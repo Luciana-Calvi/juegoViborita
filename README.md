@@ -37,7 +37,7 @@ Incluye personalización de jugador, colores, obstáculos en movimiento, niveles
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/juego-viborita.git
+   git clone https://github.com/Luciana-Calvi/juegoViborita.git
    cd juego-viborita
 
 ## Ejecuta el archivo principal:
