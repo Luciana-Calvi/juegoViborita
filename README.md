@@ -1,68 +1,52 @@
-#🐍 Juego de la Viborita (Snake Game con Turtle)
+# 🐍 Juego de la Viborita (Snake Game con Turtle)
 
-Este es un juego clásico de la Viborita desarrollado en Python usando la librería turtle.
-Incluye personalización de jugador, colores, obstáculos en movimiento, niveles de dificultad y sistema de puntajes.
+Este es un juego clásico de la **Viborita** desarrollado en **Python** usando la librería `turtle`.  
+Incluye personalización de jugador, colores, obstáculos en movimiento, niveles de dificultad y sistema de puntajes.  
 
-🚀 Características
+---
 
-🧑‍💻 Ingreso de nombre del jugador
+## 🚀 Características
 
-🎨 Selección de color de la serpiente (blue, red, orange)
+- 🧑‍💻 **Ingreso de nombre del jugador**  
+- 🎨 **Selección de color de la serpiente** (`blue`, `red`, `orange`)  
+- 🟥 **Obstáculos dinámicos** que se mueven de forma aleatoria  
+- 🍎 **Comida generada aleatoriamente** que aumenta la serpiente  
+- 🎯 **Sistema de puntajes, nivel y puntaje más alto**  
+- 🔄 **Reinicio automático** en caso de perder  
+- 🕹️ **Controles simples con el teclado**  
 
-🟥 Obstáculos dinámicos que se mueven de forma aleatoria
+---
 
-🍎 Comida generada aleatoriamente que aumenta la serpiente
+## 🎮 Controles
 
-🎯 Sistema de puntajes, nivel y puntaje más alto
+- ⬆️ **Flecha Arriba** → Mover hacia arriba  
+- ⬇️ **Flecha Abajo** → Mover hacia abajo  
+- ⬅️ **Flecha Izquierda** → Mover hacia la izquierda  
+- ➡️ **Flecha Derecha** → Mover hacia la derecha  
 
-🔄 Reinicio automático en caso de perder
+---
 
-🕹️ Controles simples con el teclado
+## 🖥️ Requisitos
 
-🎮 Controles
+- Tener instalado **Python 3.x**  
+- No se requieren librerías externas (solo se usa la estándar `turtle`)  
 
-⬆️ Flecha Arriba → Mover hacia arriba
+---
 
-⬇️ Flecha Abajo → Mover hacia abajo
+## ▶️ Cómo ejecutar el juego
 
-⬅️ Flecha Izquierda → Mover hacia la izquierda
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/juego-viborita.git
+   cd juego-viborita
 
-➡️ Flecha Derecha → Mover hacia la derecha
+## Ejecuta el archivo principal:
 
-🖥️ Requisitos
+   python viborita.py
 
-Asegúrate de tener instalado Python 3.x en tu sistema.
-No se requieren librerías externas, solo se usa la estándar turtle.
+## 🛠️ Tecnologías utilizadas
 
-▶️ Cómo ejecutar el juego
+    Python 3
 
-Clona este repositorio:
-
-git clone https://github.com/tuusuario/juego-viborita.git
-cd juego-viborita
-
-
-Ejecuta el archivo principal:
-
-python viborita.py
-
-
-¡Disfruta del juego! 🎉
-
-🛠️ Tecnologías utilizadas
-
-Python 3
-
-Turtle (gráficos por coordenadas)
-
-✨ Próximas mejoras
-
-🔊 Sonidos al comer o chocar
-
-🏆 Ranking de jugadores persistente
-
-🎨 Más colores y skins de serpiente
-
-🕹️ Opciones de dificultad configurables
-
+    Turtle (gráficos por coordenadas)
 
